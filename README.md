@@ -24,8 +24,8 @@ A fast, multithreaded random port scanner with service fingerprinting, risk clas
 No dependencies beyond the Python standard library.
 
 ```bash
-git clone https://github.com/yourname/portscan
-cd portscan
+git clone https://github.com/blaxkmiradev/Port-Scanner.git
+cd Port-Scanner
 python scanner.py
 ```
 
